@@ -2,4 +2,4 @@
 Simple and clean UI using SwiftUI 
 
 # App Preview
-<img align="left" alt="Screen Shot 1" width="256px" src="https://user-images.githubusercontent.com/55524257/101365041-e6828600-3868-11eb-85e2-0e37e4dc2892.png" />
+<img align="left" alt="Screen Shot 1" width="256px" src="https://user-images.githubusercontent.com/55524257/101366336-74ab3c00-386a-11eb-8837-39ec3c0212c3.png" />
